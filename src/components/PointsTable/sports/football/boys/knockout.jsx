@@ -6,14 +6,14 @@ const footballBoysKnockout = {
         {
             name: "Semi-finals",
             matches: [
-                { id: 'SF1', date: '13 December', venue: 'Lusail', team1: 'Argentina', score1: '3', team2: 'Croatia', score2: '0', winner: 'Argentina' },
-                { id: 'SF2', date: '14 December', venue: 'Al Khor', team1: 'France', score1: '2', team2: 'Morocco', score2: '0', winner: 'France' },
+                { id: 'SF1', date: '6 November', venue: 'CD Ground', team1: 'PG', score1: '', team2: 'CSE', score2: '', winner: '' },
+                { id: 'SF2', date: '5 November', venue: 'CD Ground', team1: 'PIE+ECM', score1: '2', team2: 'ECE', score2: '0', winner: 'PIE+ECM' },
             ]
         },
         {
             name: "Final",
             matches: [
-                { id: 'F1', date: '18 December', venue: 'Lusail', team1: 'Argentina', score1: '3', score1_pen: '4', team2: 'France', score2: '3', score2_pen: '2', winner: 'Argentina (p)' }
+                { id: 'F1', date: 'TBD', venue: 'CD Ground', team1: 'Winner SF1', score1: '', score1_pen: '', team2: 'PIE+ECM', score2: '', score2_pen: '', winner: '' }
             ]
         }
     ],
@@ -21,7 +21,7 @@ const footballBoysKnockout = {
     thirdPlace: {
         name: "Third place play-off",
         match: {
-            id: 'TP1', date: '17 December', venue: 'Al Rayyan (KIS)', team1: 'Croatia', score1: '2', team2: 'Morocco', score2: '1', winner: 'Croatia'
+            id: 'TP1', date: 'TBD', venue: 'CD Ground', team1: 'Loser SF1', score1: '', team2: 'ECE', score2: '', winner: ''
         }
     }
 };

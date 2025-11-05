@@ -5,7 +5,7 @@ export const tableTennisGirlsKnockout = {
         {
             name: "Final",
             matches: [
-                { id: 'F1', date: 'TBD', venue: 'TSG', team1: 'ECE+MME', score1: '', team2: 'CSE+ME', score2: '', winner: '' },
+                { id: 'F1', date: 'TBD', venue: 'Volleyball Court', team1: 'Pool 1', score1: '', team2: 'Pool 2', score2: '', winner: '' },
             ]
         }
     ]

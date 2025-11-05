@@ -1,11 +1,11 @@
 export const footballBoysPoolB = {
     pointsTable: {
-        headings: ['Player', 'Pld', 'W', 'D', 'L', 'Pts'],
+        headings: ['Player', 'Pld', 'W', 'D', 'L', 'GD', 'GS', 'Pts'],
         data: [
-            ['EE', 0, 0, 0, 0, 0],
-            ['CSE', 0, 0, 0, 0, 0],
-            ['PIE + ECM', 0, 0, 0, 0, 0],
-            ['CE', 0, 0, 0, 0, 0],
+            ['EE', 3, 0, 2, 1, -1, 1, 2],
+            ['CSE', 3, 1, 1, 1, 0, 2, 4],
+            ['PIE + ECM', 3, 1, 2, 0, +2, 2, 5],
+            ['CE', 3, 1, 1, 1, -1, 3, 4],
         ]
     },
     matches: [

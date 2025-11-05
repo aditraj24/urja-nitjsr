@@ -136,18 +136,6 @@ const supercoreTeamData = [
         image: 'mrigendra.jpg'
     },
     {
-        post: 'Corporate Affairs Head',
-        name: 'Paras Parimal',
-        regNo: '2022UGCM007',
-        image: 'paras.jpg'
-    },
-    {
-        post: 'App & Web Head',
-        name: 'Harshit Srivastava',
-        regNo: '2022UGCS097',
-        image: 'harshit_srivastava.jpg'
-    },
-    {
         post: 'App & Web Head',
         name: 'Priyanshu Dev',
         regNo: '2022UGEC021',

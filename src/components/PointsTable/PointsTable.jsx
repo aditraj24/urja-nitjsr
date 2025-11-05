@@ -14,11 +14,19 @@ const sportsDataMap = {
         },
         stages: ['Group Stage']
     },
+    'Badminton': {
+        genders: ['Boys', 'Girls'],
+        pools: {
+            'Boys': ['Pool A', 'Pool B'],
+            'Girls': ['Pool A', 'Pool B']
+        },
+        stages: ['Group Stage', 'Knockout']
+    },
     'Chess': {
         genders: ['Boys', 'Girls'],
         pools: {
             'Boys': ['Pool A', 'Pool B'],
-            'Girls': ['Pool A']
+            'Girls': ['Pool A', 'Pool B']
         },
         stages: ['Group Stage', 'Knockout']
     },
@@ -48,7 +56,7 @@ const sportsDataMap = {
         genders: ['Boys', 'Girls'],
         pools: {
             'Boys': ['Pool A', 'Pool B'],
-            'Girls': ['Pool A']
+            'Girls': ['Pool A', 'Pool B']
         },
         stages: ['Group Stage', 'Knockout']
     },
@@ -56,7 +64,7 @@ const sportsDataMap = {
         genders: ['Boys', 'Girls'],
         pools: {
             'Boys': ['Pool A', 'Pool B'],
-            'Girls': ['Pool A']
+            'Girls': ['Pool A', 'Pool B']
         },
         stages: ['Group Stage', 'Knockout']
     },
@@ -344,7 +352,7 @@ function PointsTable() {
 
     const sportsList = [
         { name: 'Athletics', emoji: '🏃' },
-
+        { name: 'Badminton', emoji: '🏸' },
         { name: 'Chess', emoji: '♟️' },
         { name: 'Cricket', emoji: '🏏' },
         { name: 'Football', emoji: '⚽' },

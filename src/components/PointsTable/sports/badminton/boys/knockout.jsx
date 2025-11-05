@@ -1,6 +1,6 @@
 // src/components/PointsTable/sports/basketball/boys/knockout.js
 
-export const tableTennisBoysKnockout = {
+export const badmintonBoysKnockout = {
     rounds: [
         {
             name: "Semi-finals",

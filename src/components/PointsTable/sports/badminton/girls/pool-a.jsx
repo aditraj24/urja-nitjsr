@@ -1,6 +1,6 @@
 // src/data/sports/cricket/boys/pool-a.js
 
-export const chessGirlsPoolA = {
+export const badmintonGirlsPoolA = {
     pointsTable: {
         headings: ['Team', 'Pld', 'W', 'L', 'Pts'],
         data: [
