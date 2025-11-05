@@ -5,8 +5,8 @@ export const chessBoysKnockout = {
         {
             name: "Semi-finals",
             matches: [
-                { id: "SF1", team1: "A1", team2: "B2", winner: "", score1: "", score2: "" },
-                { id: "SF2", team1: "A2", team2: "B1", winner: "", score1: "", score2: "" },
+                { id: "SF1", team1: "ECE", team2: "EE", winner: "", score1: "", score2: "" },
+                { id: "SF2", team1: "CSE", team2: "PG", winner: "", score1: "", score2: "" },
             ]
         },
         {

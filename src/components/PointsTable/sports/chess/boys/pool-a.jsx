@@ -2,10 +2,10 @@ export const chessBoysPoolA = {
     pointsTable: {
         headings: ['Team', 'Pld', 'W', 'L', 'Pts'],
         data: [
-            ['ME', 0, 0, 0, 0],
-            ['MME', 0, 0, 0, 0],
-            ['ECE', 0, 0, 0, 0],
-            ['PG', 0, 0, 0, 0]
+            ['ME', 2, 0, 2, 0],
+            ['MME', 2, 0, 2, 0],
+            ['ECE', 3, 3, 0, 3],
+            ['PG', 3, 2, 1, 2]
         ]
     },
     matches: [

@@ -5,7 +5,7 @@ export const chessGirlsKnockout = {
         {
             name: "Final",
             matches: [
-                { id: "F1", team1: "Pool 1", team2: "Pool 2", winner: "", score1: "", score2: "" },
+                { id: "ECE+MME", team1: "PG+ME", team2: "Pool 2", winner: "", score1: "", score2: "" },
             ]
         },
         {

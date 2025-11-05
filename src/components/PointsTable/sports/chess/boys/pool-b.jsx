@@ -1,11 +1,11 @@
 export const chessBoysPoolB = {
     pointsTable: {
-        headings: ['Player', 'Pld', 'W', 'D', 'L', 'Pts'],
+        headings: ['Team', 'Pld', 'W', 'L', 'Pts'],
         data: [
-            ['EE', 0, 0, 0, 0],
-            ['CSE', 0, 0, 0, 0],
-            ['PIE + ECM', 0, 0, 0, 0],
-            ['CE', 0, 0, 0, 0],
+            ['EE', 3, 2, 1, 2],
+            ['CSE', 3, 3, 0, 3],
+            ['PIE + ECM', 3, 0, 3, 0],
+            ['CE', 3, 1, 2, 1],
         ]
     },
     matches: [

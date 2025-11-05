@@ -1,11 +1,11 @@
 export const cricketBoysPoolA = {
     pointsTable: {
-        headings: ['Team', 'Pld', 'W', 'L', 'Pts'],
+        headings: ['Team', 'Pld', 'W', 'L', 'Pts' , 'NRR'],
         data: [
-            ['ME', 0, 0, 0, 0],
-            ['MME', 0, 0, 0, 0],
-            ['ECE', 0, 0, 0, 0],
-            ['PG', 0, 0, 0, 0]
+            ['ME', 3, 1, 2, 2 , -0.113],
+            ['MME', 3, 2, 1, 4,0.804],
+            ['ECE', 3, 2, 1, 2,0.191],
+            ['PG', 3, 1, 2, 2,-0.951]
         ]
     },
     matches: [

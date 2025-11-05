@@ -4,10 +4,10 @@ export const chessGirlsPoolA = {
     pointsTable: {
         headings: ['Team', 'Pld', 'W', 'L', 'Pts'],
         data: [
-            ['ME + PG', 0, 0, 0, 0],
-            ['MME + ECE', 0, 0, 0, 0],
-            ['CE + PIE + ECM', 0, 0, 0, 0],
-            ['EE + CSE', 0, 0, 0, 0]
+            ['ME + PG', 1, 1, 0, 1],
+            ['MME + ECE', 1, 1, 0, 1],
+            ['CE + PIE + ECM', 1, 0, 1, 0],
+            ['EE + CSE', 1, 0, 1, 0]
         ]
     },
     matches: [
